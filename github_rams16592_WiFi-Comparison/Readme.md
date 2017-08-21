@@ -2,7 +2,10 @@
 
 Authors: R. Shah, N. Nagaraj, N. Mirchandani
 
-Description: Analysis of different Wi-Fi modes with 12 Stations and 1 Access Point.
+Description: Throughput analysis of different Wi-Fi modes with 12 Stations and 1 Access Point, as function of:
+* Number of stations
+* Constant bitrate (CBR)
+
 
 WIFI Standards                        | Data Rates
 ------------------------------------- | -------------------------------------
@@ -13,7 +16,7 @@ WIFI_PHY_STANDARD_80211n_2_4GHZ       | OfdmRate6_5MbpsBW20MHz, OfdmRate13Mbp
 WIFI_PHY_STANDARD_80211n_5GHZ         | OfdmRate13_5MbpsBW40MHz
 
 
-Node coordinates (X,y):
+Node coordinates (X,Y):
 
 Node | X	|	Y
 ---------| ---------|---------
