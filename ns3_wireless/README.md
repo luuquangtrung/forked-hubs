@@ -2,7 +2,9 @@
 
 Directory: `ns-3.26/examples/wireless`
 
-Document: https://www.nsnam.org/docs/release/3.11/models/html/wifi.html#
+Documents: 
+* https://www.nsnam.org/docs/release/3.11/models/html/wifi.html#
+* https://www.nsnam.org/docs/models/html/wifi-design.html
 
 HOWTOs:
 * [All HOWTOs](https://www.nsnam.org/mediawiki/index.php?search=howto&title=Special%3ASearch&fulltext=Search)
