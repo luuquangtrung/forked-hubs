@@ -1,5 +1,8 @@
 # WiFi-Project
-Wireless networking project on NS3 simualtor 
+
+Wireless networking project on NS3 simualtor ([Source](https://github.com/jipristt/WiFi-Project))
+
+Author: [jipristt](https://github.com/jipristt)
 
 This project aims to simulate situation where there are multiple APs interfering with each other. This situation could be for example a block of flats where multiple WiFi routers (neighbors) cover the available channels and interfere with each other. 
 
