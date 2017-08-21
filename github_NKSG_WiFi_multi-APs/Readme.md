@@ -3,6 +3,10 @@ ns3_WiFi_multi-APs
 
 Multiple APs using WiFi
 
+Author: [NKSG](https://github.com/NKSG/)
+
+Source: https://github.com/NKSG/ns3_WiFi_multi-APs
+
 Original modify from NS3 example/wifi-ap.cc
 I extend it into multiple APs and multiple STAS
 
