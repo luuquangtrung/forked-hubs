@@ -6,6 +6,7 @@ This model simulate from physical layer, through mac layer to application layer 
 https://pdfs.semanticscholar.org/4a5c/f874e9469815113c7ea93ff97317bdb52a90.pdf
 
 Authors: Jiayi Zhang, Qi Lyu
+Source: https://github.com/JasonZhang1993/Saturation-Throughput
 
 1. MATLAB Simulation Codes: project_simulation.m
 
