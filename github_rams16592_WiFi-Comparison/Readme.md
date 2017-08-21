@@ -1,6 +1,6 @@
 # Comparison of different Wi-Fi standards: 802.11a/b/g/n
 
-Authors: R. Shah, N. Nagaraj, N. Mirchandani
+Authors: R. Shah, N. Nagaraj, N. Mirchandani ([Link](https://github.com/rams16592/))
 
 Description: Throughput analysis of different Wi-Fi modes with 12 Stations and 1 Access Point, as function of:
 * Number of stations
