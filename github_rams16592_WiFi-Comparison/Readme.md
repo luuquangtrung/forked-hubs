@@ -3,7 +3,8 @@
 Authors: R. Shah, N. Nagaraj, N. Mirchandani ([Link](https://github.com/rams16592/))
 
 Description: Throughput analysis of different Wi-Fi modes with 12 Stations and 1 Access Point, as function of:
-* Number of stations
+* Number of stations (N)
+* Number of active flows
 * Constant bitrate (CBR)
 
 
