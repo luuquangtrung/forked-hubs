@@ -1,6 +1,6 @@
 # Examples on wireless network of ns-3
 
-Directory: 'ns-3.26/examples/wireless'
+Directory: `ns-3.26/examples/wireless`
 
 Document: https://www.nsnam.org/docs/release/3.11/models/html/wifi.html#
 
